@@ -1,0 +1,32 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Selanthas",
+      "strength": 12,
+      "dexterity": 19,
+      "constitution": 10,
+      "wisdom": 9,
+      "intelligence": 11,
+      "charisma": 15,
+      "inventory": [
+        "sword",
+        "knife",
+        "leather armor"
+      ]
+    },
+    {
+      "name": "Conan the barbarian",
+      "strength": 20,
+      "dexterity": 14,
+      "constitution": 16,
+      "intelligence": 9,
+      "wisdom": 12,
+      "charisma": 18,
+      "inventory": [
+        "two handed sword"
+      ],
+      "id": 2
+    }
+  ]
+}
